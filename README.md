@@ -64,14 +64,15 @@ https://github.com/RohitNepali2030/MINOR-PROJECT-SMART-PLANT-WATERING-SYSTEM-BAC
 3. Install Required Libraries:
 
    ->Blynk
+   
    ->DHT sensor library
 
-4. Configure Wi-Fi & Blynk Token in Code:
+5. Configure Wi-Fi & Blynk Token in Code:
 Replace placeholders with your actual Wi-Fi credentials and Blynk Auth Token.
 
-5. Upload the Code to ESP32.
+6. Upload the Code to ESP32.
 
-6. Open Serial Monitor to check system logs.
+7. Open Serial Monitor to check system logs.
 
 **🚀 How It Works**
 -> The ESP32 continuously reads moisture level from the soil sensor.
